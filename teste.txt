@@ -1,0 +1,1 @@
+shutdown -s -t 600 -c "vou desligar em 10 minutos"
