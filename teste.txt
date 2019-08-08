@@ -3,3 +3,5 @@ Estou apredendo a utilizar a ferramenta Git.
 Esta ferramenta e muito interessante.
 
 Voce e muito inteligente
+
+Voce esta aprendendo bem a utilizar a ferramenta
